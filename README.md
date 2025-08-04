@@ -17,6 +17,8 @@ Features should be developed on branches. To create and switch to a branch, use 
 git switch -c new_branch_name
 
 ```
+
+```
 git switch existing_branch_name
 
 ```
